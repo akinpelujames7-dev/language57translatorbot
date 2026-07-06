@@ -11,3 +11,10 @@ env.bak/
 venv.bak/
 .DS_Store
 *.log
+*.sqlite
+*.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
